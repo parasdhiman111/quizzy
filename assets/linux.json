@@ -1,0 +1,88 @@
+[
+  {
+    "1": "Which command is used to record a user login session in a file?",
+    "2": "Which command is used to display the operating system name?",
+    "3": "Which command is used to display the unix version?",
+    "4": "Which command is used to print a file?",
+    "5": "Which option of ls command used to view file inode number?",
+    "6": "Which command is used to view compressed text file contents?",
+    "7": "Which command changes a file’s group owner?",
+    "8": "Which command is used to extract intermediate result in a pipeline?",
+    "9": "Which command is used to extract a column from a text file?",
+    "10": "Which command is used to perform backup in unix?"
+  },
+  {
+    "1": {
+      "a": "macro",
+      "b": "read",
+      "c": "script",
+      "d": "None of the Above"
+    },
+    "2": {
+      "a": "ox",
+      "b": "kernel",
+      "c": "unix",
+      "d": "uname"
+    },
+    "3": {
+      "a": "uname -r",
+      "b": "uname -n",
+      "c": "uname -t",
+      "d": "kernel"
+    },
+    "4": {
+      "a": "print",
+      "b": "ptr",
+      "c": "lpr",
+      "d": "None of the Above"
+    },
+    "5": {
+      "a": "-l",
+      "b": "-o",
+      "c": "-a",
+      "d": "-i"
+    },
+    "6": {
+      "a": "cat",
+      "b": "type",
+      "c": "zcat",
+      "d": "print"
+    },
+    "7": {
+      "a": "cgrp",
+      "b": "chgrp",
+      "c": "change",
+      "d": "group"
+    },
+    "8": {
+      "a": "tee",
+      "b": "extract",
+      "c": "exe",
+      "d": "None of the Above"
+    },
+    "9": {
+      "a": "paste",
+      "b": "get",
+      "c": "cut",
+      "d": "tar"
+    },
+    "10": {
+      "a": "backup",
+      "b": "cpio",
+      "c": "zip",
+      "d": "gzip"
+    }
+  },
+  {
+    "1": "script",
+    "2": "uname",
+    "3": "uname -r",
+    "4": "lpr",
+    "5": "-i",
+    "6": "zcat",
+    "7": "chgrp",
+    "8": "tee",
+    "9": "cut",
+    "10": "cpio"
+  }
+]

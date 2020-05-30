@@ -1,0 +1,88 @@
+[
+    {
+        "1": "What is the size of double variable in Java?",
+        "2": "Which of the following is a thread safe?",
+        "3": "Which of those allows duplicate elements?",
+        "4": "Which of these operators is used to allocate memory to array variable in Java?",
+        "5": "Which of these is an incorrect array declaration?",
+        "6": "Which of these is necessary to specify at time of array initialization?",
+        "7": "Which of these class is superclass of String and StringBuffer class?",
+        "8": "Which of these operators can be used to concatenate two or more String objects?",
+        "9": "Which of these method of class String is used to obtain length of String object?",
+        "10": "Which of these constructors is used to create an empty String object?"
+    },
+    {
+        "1": {
+            "a": "8 bits",
+            "b": "16 bits",
+            "c": "32 bits",
+            "d": "64 bits"
+        },
+        "2": {
+            "a": "StringBuilder",
+            "b": "StringBuffer",
+            "c": "Both of the Above",
+            "d": "None of the Above"
+        },
+        "3": {
+            "a": "Set",
+            "b": "List",
+            "c": "None of the Above",
+            "d": "Both of the Above"
+        },
+        "4": {
+            "a": "malloc",
+            "b": "alloc",
+            "c": "new",
+            "d": "new malloc"
+        },
+        "5": {
+            "a": "int arr[] = new int[5]",
+            "b": "int [] arr = new int[5]",
+            "c": "int arr[] arr = new int[5]",
+            "d": "int arr[] = int [5] new"
+        },
+        "6": {
+            "a": "Row",
+            "b": "Column",
+            "c": "Row and Column",
+            "d": "None of the Above"
+        },
+        "7": {
+            "a": "java.util",
+            "b": "java.lang",
+            "c": "ArrayList",
+            "d": "None of the Above"
+        },
+        "8": {
+            "a": "+",
+            "b": "+=",
+            "c": "&",
+            "d": "||"
+        },
+        "9": {
+            "a": "get()",
+            "b": "Sizeof()",
+            "c": "lengthof()",
+            "d": "length"
+        },
+        "10": {
+            "a": "String()",
+            "b": "String(void)",
+            "c": "String(o)",
+            "d": "None of the Above"
+        }
+    },
+    {
+        "1": "64 bits",
+        "2": "StringBuffer",
+        "3": "List",
+        "4": "new",
+        "5": "int arr[] = int [5] new",
+        "6": "Row",
+        "7": "java.lang",
+        "8": "+",
+        "9": "length",
+        "10": "String()"
+    }
+]

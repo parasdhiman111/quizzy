@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Javascript is _________ language.",
+        "2": "JavaScript is ______ Side Scripting Language.",
+        "3":"Cost for Using JavaScript in your HTML is _________ .",
+        "4":"JavaScript Code is written inside file having extension __________.",
+        "5":"Local Browser used for validations on the Web Pages uses __________.",
+        "6":"JavaScript Code can be called by using _________.",
+        "7":"Which of the following Attribute is used to include External JS code inside your HTML Document -",
+        "8":"Which attribute is used to specifies that the script is executed \nwhen the page has finished parsing (only for external scripts)",
+        "9":"______ attribute is used to specify the character encoding used in an external script file.",
+        "10":"The async attribute can be set in the following ways -"
+    },
+    {
+        "1": {
+            "a": "Application",
+            "b": "Programming",
+            "c": "Scripting",
+            "d": "None of the Above"
+        },
+        "2": {
+            "a": "Server",
+            "b": "Browser",
+            "c": "ISP",
+            "d": "None of the Above"
+        },
+        "3": {
+            "a": "$10 / Year",
+            "b": "Its Free !!!",
+            "c": "$15 / Year",
+            "d": "$5 / Year"
+        },
+        "4": {
+            "a": ".js",
+            "b": ".jvs",
+            "c": ".jsv",
+            "d": ".javascript"
+        },
+        "5": {
+            "a": "JS",
+            "b": "HTML",
+            "c": "CSS",
+            "d": "JAVA"
+        },
+        "6": {
+            "a": "RMI",
+            "b": "Function / Method",
+            "c": "Preprocessor",
+            "d": "Triggering Event"
+        },
+        "7": {
+            "a": "ext",
+            "b": "link",
+            "c": "src",
+            "d": "source"
+        },
+        "8": {
+            "a": "parse",
+            "b": "defer",
+            "c": "type",
+            "d": "async"
+        },
+        "9": {
+            "a": "character",
+            "b": "charset",
+            "c": "type",
+            "d": "None of the Above"
+        },
+        "10": {
+            "a": "<script async=\"\">\n",
+            "b": "<script async=\"async\">",
+            "c": "<script async>",
+            "d": "All of the Above"
+        }
+    },
+    {
+        "1": "Scripting",
+        "2": "Browser",
+        "3": "Its Free !!!",
+        "4": ".js",
+        "5": "JS",
+        "6": "Triggering Event",
+        "7": "src",
+        "8": "defer",
+        "9": "charset",
+        "10": "All of the Above"
+    }
+]

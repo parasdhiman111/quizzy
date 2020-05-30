@@ -1,0 +1,88 @@
+[
+    {
+        "1": "Which of the following is the correct syntax of including a user defined header files in C++?",
+        "2": "Which of the following is a correct identifier in C++?",
+        "3": "Which of the following is called address operator?",
+        "4": "Which of the following is used for comments in C++?",
+        "5": "Which of the following is called extraction/get from operator?",
+        "6": "Which function is used to write a single character to console in C++?",
+        "7": "Which function is used to read a single character from the console in C++?",
+        "8": "Who created C++?",
+        "9": "Which of the following is called insertion/put to operator?",
+        "10": "A language which has the capability to generate new data types are called ________________"
+    },
+    {
+        "1": {
+            "a": "#include <userdefined.h>",
+            "b": "#include <userdefined>",
+            "c": "#include “userdefined”",
+            "d": "#include [userdefined]"
+        },
+        "2": {
+            "a": "7var_name",
+            "b": "7VARNAME",
+            "c": "VAR_1234",
+            "d": "$var_name"
+        },
+        "3": {
+            "a": "*",
+            "b": "&",
+            "c": "-",
+            "d": "%"
+        },
+        "4": {
+            "a": "// comment",
+            "b": "/* comment */",
+            "c": "both // comment or /* comment */",
+            "d": "// comment */"
+        },
+        "5": {
+            "a": "<<",
+            "b": ">>",
+            "c": "<",
+            "d": ">"
+        },
+        "6": {
+            "a": "cin.get(ch)",
+            "b": "getline(ch)",
+            "c": "read(ch)",
+            "d": "scanf(ch)"
+        },
+        "7": {
+            "a": "cout.put(ch)",
+            "b": "cout.putline(ch)",
+            "c": "write(ch)",
+            "d": "printf(ch)"
+        },
+        "8": {
+            "a": "Bjarne Stroustrup",
+            "b": "Dennis Ritchie",
+            "c": "Ken Thompson",
+            "d": "Brian Kernighan"
+        },
+        "9": {
+            "a": "<<",
+            "b": ">>",
+            "c": "<",
+            "d": ">"
+        },
+        "10": {
+            "a": "Extensible",
+            "b": "Overloaded",
+            "c": "Encapsulated",
+            "d": "Reprehensible"
+        }
+    },
+    {
+        "1": "#include “userdefined”",
+        "2": "VAR_1234",
+        "3": "&",
+        "4": "both // comment or /* comment */",
+        "5": ">>",
+        "6": "cin.get(ch)",
+        "7": "cout.put(ch)",
+        "8": "Bjarne Stroustrup",
+        "9": "<<",
+        "10": "Extensible"
+    }
+]
